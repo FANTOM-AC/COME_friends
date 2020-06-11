@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="682.0" prefWidth="1044.0" style="-fx-background-color: fafafafa;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <AnchorPane prefHeight="112.0" prefWidth="1044.0" style="-fx-background-color: #2E3348;">
+            <children>
+                <Label layoutX="800.0" layoutY="6.0" prefHeight="29.0" prefWidth="238.0" text="ООО &quot;ДАЛЬНОБОЙ&quot;" textFill="WHITE">
+                    <font>
+                        <Font name="Verdana Italic" size="23.0" />
+                    </font>
+                </Label>
+                <Label layoutX="353.0" layoutY="48.0" prefHeight="29.0" prefWidth="339.0" text="Доставка не по всей России" textFill="WHITE">
+                    <font>
+                        <Font name="Verdana Italic" size="23.0" />
+                    </font>
+                </Label>
+            </children>
+        </AnchorPane>
+        <Text fontSmoothingType="LCD" layoutX="326.0" layoutY="176.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Информация о компании" wrappingWidth="392.9830722808838">
+            <font>
+                <Font name="System Bold Italic" size="30.0" />
+            </font>
+        </Text>
+      <Text layoutX="125.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Наша компания ООО&quot;ДАЛЬНОБОЙ&quot; занимается перевозкой товаров по ограниченным городам России." wrappingWidth="763.13671875">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Text>
+      <Text layoutX="125.0" layoutY="320.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Связаться с нами можно о номеру телефона: +7800******* " wrappingWidth="708.13671875">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Text>
+      <Text layoutX="125.0" layoutY="383.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Некоторые функции программы недоступны, тк разработчик узнал, что нужно было написать только интерфейс программы" wrappingWidth="708.13671875">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Text>
+    </children>
+</AnchorPane>
